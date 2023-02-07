@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet href="giangday.xsl" type="text/xsl"?>
+<QuanLyGiangday>
+    <GiaoVien>
+        <maGV>T01</maGV>
+        <tenGV>Nguyễn Thị Như</tenGV>
+        <diachi>Buôn Ma Thuột, Đăk Lăk</diachi>
+        <dienthoai>012345678</dienthoai>
+    </GiaoVien>
+    <Giangday>
+        <maGV>T11</maGV>
+        <tenMH>XML</tenMH>
+        <ngaybatdau>04-01-2023</ngaybatdau>
+    </Giangday>  
+    <MonHoc>
+        <tenGV>Nguyễn Thị Như</tenGV>
+        <maMH IDREF="XML1">XML1</maMH>
+        <tenMH>XML</tenMH>
+        <soTC>2</soTC>
+        <ngaybatdau>04-01-2023</ngaybatdau>
+    </MonHoc>
+   
+</QuanLyGiangday>
